@@ -1,0 +1,2 @@
+# 42-PHILOSOPHERS
+42 Project
