@@ -1,0 +1,17 @@
+# Binarios
+philo
+*.o
+*.a
+
+# Archivos del sistema
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Directorios de compilación
+obj/
+*.dSYM/
+
+# Archivos de depuración
+*.log
